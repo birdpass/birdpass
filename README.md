@@ -1,16 +1,29 @@
-## Hi there 👋
+BirdPass
 
-<!--
-**birdpass/birdpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital gift cards, prepaid codes & mobile top-ups.
 
-Here are some ideas to get you started:
+BirdPass is an online store specializing in digital gift cards, prepaid codes and top-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the official GitHub profile for BirdPass.
+
+About BirdPass
+
+BirdPass provides customers with a simple and convenient way to buy digital prepaid products online.
+
+BirdPass is operated by Netpartage SAS.
+
+Links
+
+Website: https://www.birdpass.com/
+
+LinkedIn: https://www.linkedin.com/company/birdpass/
+
+X: https://x.com/Birdpasscom
+
+Instagram: https://www.instagram.com/birdpasscom/
+
+YouTube: https://www.youtube.com/@birdpasscom
+
+GitHub
+
+This GitHub profile may be used for BirdPass technical resources, documentation and future development projects.
