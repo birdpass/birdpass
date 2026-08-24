@@ -14,7 +14,7 @@ BirdPass is operated by Netpartage SAS.
 
 Links
 
-Website: https://www.birdpass.com/
+Website: http://www.birdpass.com/
 
 LinkedIn: https://www.linkedin.com/company/birdpass/
 
